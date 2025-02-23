@@ -1,25 +1,19 @@
-# 🌟 Bem-vindo ao meu GitHub! 🌟
-Sou estudante de Engenharia da Computação com uma sólida base analítica e paixão por desenvolver soluções inovadoras e eficientes. Ao longo da minha formação, apliquei conhecimentos teóricos para resolver problemas reais, com foco em **escalabilidade**, **performance** e **integração de sistemas**. Aqui você encontrará projetos práticos utilizando **Java**, **Python**, **AWS** e **APIs** que refletem minha jornada e empenho em criar soluções robustas para os desafios modernos da tecnologia. 
+# Welcome to my GitHub! 👋 
+I am a Computer Engineering student with a strong analytical foundation and a passion for developing innovative and efficient solutions. Throughout my academic journey, I've applied theoretical knowledge to solve real-world problems, focusing on **scalability**, **performance**, and **system integration**. Here, you will find practical projects using **Java**, **Python**, **AWS**, and **APIs** that reflect my commitment to creating robust solutions for the modern technology challenges. 
 
-## 💻 Meus Projetos 
+## 💻 My Projects
+In my repositories, you'll find a variety of projects that encompass full system development, automation, and cloud solutions, with a focus on: 
+### 🌐 **API Development & Integrations** Projects in **Java** and **Python** showcasing the creation and consumption of **REST and SOAP APIs**, focusing on simplicity, efficiency, and smooth communication between systems. 
+### ☁️ **Cloud Applications (AWS)** Solutions implemented using **AWS** (EC2, S3, RDS, IAM) focusing on scalability, security, and resource optimization. Projects demonstrating how to integrate cloud and infrastructure to create robust, scalable solutions. 
+### ⚙️ **Automation & Scripting** **Python** and **Shell Script** projects aimed at automating repetitive tasks, integrating legacy systems, and optimizing processes within both development and production environments. 
+### 🌍 **Full Stack Projects** **Full stack** applications integrated with both **front-end** and **back-end**, using modern technologies like **Node.js**, **JavaScript**, **React**, and frameworks like **Spring** to create dynamic and complete platforms. 
 
-Nos meus repositórios, você verá uma variedade de projetos que englobam o desenvolvimento de sistemas completos, automações e soluções em nuvem, com destaque para: 
-### 🌐 **Desenvolvimento de APIs e Integrações** Projetos em **Java** e **Python** demonstrando a criação e o consumo de **APIs REST e SOAP**, com foco em simplicidade, eficiência e comunicação fluida entre sistemas. 
+## 🚀 What to Expect 
+- **Continuous Innovation:** I am constantly exploring new approaches and technologies to solve problems creatively.
+- **Collaborative Projects:** Feel free to contribute, suggest improvements, or collaborate on new challenges.
+- **Constant Growth:** Every project reflects my pursuit of learning and professional evolution, both technically and process-wise.
 
-### ☁️ **Aplicações Cloud (AWS)** Soluções implementadas utilizando **AWS** (EC2, S3, RDS, IAM) com foco em escalabilidade, segurança e otimização de recursos. Projetos que demonstram como integrar nuvem e infraestrutura para criar soluções robustas e escaláveis.
-
-### ⚙️ **Automação & Scripting** Scripts em **Python** e **Shell Script** voltados para a automação de tarefas repetitivas, integração de sistemas legados e otimização de processos dentro do ambiente de desenvolvimento e produção. 
-
-### 🌍 **Projetos Full Stack** Aplicações **full stack** com integração de **front-end** e **back-end**, utilizando tecnologias modernas como **Node.js**, **JavaScript**, **React** e frameworks como **Spring** para criar plataformas completas e dinâmicas. 
-
-## 🚀 O Que Você Pode Esperar 
-
-- **Inovação contínua:** Estou sempre em busca de novas abordagens e tecnologias para resolver problemas de forma criativa. 
-- **Projetos colaborativos:** Sinta-se à vontade para contribuir, sugerir melhorias ou colaborar em novos desafios.
-- **Crescimento constante:** Cada projeto reflete minha busca por aprendizado e evolução profissional, tanto a nível técnico quanto de processos.
-
-## 📫 Vamos Conversar? 
-
-Adoro trocar ideias sobre tecnologia e estou sempre aberto a novas colaborações! Se tiver interesse em algum projeto ou deseja discutir novas oportunidades, não hesite em entrar em contato!
--  🌐 [LinkedIn](https://www.linkedin.com/in/guilherme-malfará-ab7634206/)
--  📧 [Email](guilherme.cassiano2003@gmail.com)
+## 📫 Let's Connect? 
+I love exchanging ideas about technology and am always open to new collaborations! If you’re interested in any of my projects or want to discuss new opportunities, don’t hesitate to reach out! 
+- 🌐 [LinkedIn](https://www.linkedin.com/in/guilherme-malfará-ab7634206/)
+- 📧 [Email](guilherme.cassiano2003@gmail.com)
